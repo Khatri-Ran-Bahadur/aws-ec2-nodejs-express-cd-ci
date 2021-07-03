@@ -1,0 +1,22 @@
+{
+  "name": "aws-ec2-nodejs-express-cd-ci",
+  "version": "1.0.0",
+  "description": "This is the testing node application for cd/ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khatri-Ran-Bahadur/aws-ec2-nodejs-express-cd-ci.git"
+  },
+  "author": "RN KHATRI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khatri-Ran-Bahadur/aws-ec2-nodejs-express-cd-ci/issues"
+  },
+  "homepage": "https://github.com/Khatri-Ran-Bahadur/aws-ec2-nodejs-express-cd-ci#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
